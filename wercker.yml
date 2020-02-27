@@ -24,6 +24,7 @@ build:
       code: |
         mv README.md run.sh step.yml wercker.yml bin/ helpers/ $WERCKER_OUTPUT_DIR
         ls -lh $WERCKER_OUTPUT_DIR
+        
 publish:
   steps:
     - internal/publish-step
