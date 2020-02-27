@@ -34,7 +34,7 @@ deploy:
     - install-packages:
         packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
-        token: $GIT_TOKEN
+        token: 67c928b402306ea6f0de1f84fff99e419492c04b
         domain: kdzmotorcycles.com
         basedir: public
 
