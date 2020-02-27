@@ -24,7 +24,20 @@ build:
       code: |
         mv README.md run.sh step.yml wercker.yml bin/ helpers/ $WERCKER_OUTPUT_DIR
         ls -lh $WERCKER_OUTPUT_DIR
-        
+
+  - arjen/hugo-build:
+        theme: ampradix
+        flags: --buildDrafts=true
+
+deploy:
+  steps:
+    - install-packages:
+        packages: git ssh-client
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: kdzmotorcycles.com
+        basedir: public
+
 publish:
   steps:
     - internal/publish-step
