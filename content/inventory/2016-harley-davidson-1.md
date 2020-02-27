@@ -1,8 +1,7 @@
 +++
-Description = "My description here..."
+Description = "My description here...werfsargfasdfgasdfdsf"
 VIN = ""
 date = 2020-02-13T05:00:00Z
-draft = true
 featured_image = ""
 featured_image_height = "3000"
 featured_image_width = "5000"
