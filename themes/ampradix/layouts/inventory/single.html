@@ -1,0 +1,64 @@
+<!doctype html>
+<html ⚡="" lang="en">
+    {{- partial "head.html" . -}}
+    <body>
+
+        {{- partial "header.html" . -}}
+		<amp-img class="" src="{{ .Params.featured_image  | safeHTML }}" width="{{ .Params.featured_image_width }}" height="{{ .Params.featured_image_height }}" alt="{{ .Title }} image" title="{{ .Title }}" layout="responsive">
+		</amp-img>
+		<p class="h5 col-10 mx4 pb1 pt1">Published: {{ .PublishDate.Format "January 2, 2006" }}</p>
+
+		<h1 class="h2 col-10 mx4 pb2 pt3" id="motorcycle-title">{{ .Title }}</h1>
+		<h2 class="h4 col-10 mx4 pb3" id="motorcycle-price">Price: ${{ .Params.price }}</h2>
+		<section id="motorcycle-details" class="py1">
+			<div class="mxn2 flex    flex-wrap  ">
+				<div class="px2 col-12 sm-col-6 md-col-4  ">
+					<span class="h6 col-10 mx4 pt1">Year: {{ .Params.year }}</span>
+				</div>
+				<div class="px2 col-12 sm-col-6 md-col-4  ">
+					<span class="h6 col-10 mx4 pt1">Make: {{ .Params.make }}</span>
+				</div>
+				<div class="px2 col-12 sm-col-6 md-col-4  ">
+					<span class="h6 col-10 mx4 pt1">Model: {{ .Params.model }}</span>
+				</div>
+				<div class="px2 col-12 sm-col-6 md-col-4  ">
+					<span class="h6 col-10 mx4 pt1">Miles: {{ .Params.miles }}</span>
+				</div>
+				<div class="px2 col-12 sm-col-6 md-col-4  ">
+					<span class="h6 col-10 mx4 pt1">VIN: {{ .Params.vin }}</span>
+				</div>
+			</div>
+		</section>
+		<h2 class="h3 col-10 mx4 pb3 pt3" id="motorcycle-description">Description</h2>
+		<p class="col-10 mx4 pb1"><strong>{{ .Params.summary_description }}</strong></p>
+		<h2 class="h3 col-10 mx4 pb3 pt3" id="motorcycle-image-gallery">Image Gallery</h2>
+		
+		<amp-carousel [slide]="selectedSlide" on="slideChange:AMP.setState({selectedSlide:event.index})" type="slides" id="imageSlides" layout="responsive" width="1080" height="525" class="">
+		    <amp-img src="{{ .Params.featured_image  | safeHTML }}" layout="fill"></amp-img>
+		    <amp-img src="{{ .Params.structured_image1  | safeHTML }}" layout="fill"></amp-img>
+		    <amp-img src="{{ .Params.structured_image2  | safeHTML }}" layout="fill"></amp-img>
+		    <amp-img src="{{ .Params.structured_image3  | safeHTML }}" layout="fill"></amp-img>
+		</amp-carousel>
+		<amp-selector [selected]="selectedSlide" on="select:AMP.setState({selectedSlide:event.targetOption})">
+			<amp-carousel layout="fixed-height" height="78" class="mt2 ml2">
+
+			    <amp-img  option=0 selected src="{{ .Params.featured_image  | safeHTML }}" layout="fixed" width="108" height="53"></amp-img>
+			    <amp-img option=1 src="{{ .Params.structured_image1  | safeHTML }}" layout="fixed" width="108" height="53"></amp-img>
+			    <amp-img option=2 src="{{ .Params.structured_image2  | safeHTML }}" layout="fixed" width="108" height="53"></amp-img>
+			    <amp-img option=3 src="{{ .Params.structured_image3  | safeHTML }}" layout="fixed" width="108" height="53"></amp-img>
+
+			</amp-carousel>
+		</amp-selector><br>
+
+		<p class="h4 col-10 mx4 pt2 pb1">
+			<a href="tel:2609270533" class="ampstart-btn mb2 caps inline-block pb1 pt1 ">260.927.0533</a>
+			<a href="/contact" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">Submit a Message</a>
+			<a href="/credit-application" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">Credit Application</a>
+			<a href="/inventory" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">Inventory</a>
+		</p>
+		
+        
+        {{- partial "footer.html" . -}}
+
+    </body>
+</html>

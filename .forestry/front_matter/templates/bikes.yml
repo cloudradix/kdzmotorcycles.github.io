@@ -1,0 +1,55 @@
+---
+label: Bikes
+hide_body: true
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: Description
+  label: Description
+- type: file
+  name: featured_image
+  label: featured_image
+- type: text
+  name: featured_image_width
+  label: featured_image_width
+- type: text
+  name: featured_image_height
+  label: featured_image_height
+- type: file
+  name: structured_image1
+  label: structured_image1
+- type: file
+  name: structured_image2
+  label: structured_image2
+- type: file
+  name: structured_image3
+  label: structured_image3
+- type: text
+  name: year
+  label: year
+- type: text
+  name: make
+  label: make
+- type: text
+  name: model
+  label: model
+- type: text
+  name: miles
+  label: miles
+- type: text
+  name: VIN
+  label: VIN
+- type: text
+  name: price
+  label: price
+- type: text
+  name: summary_description
+  label: summary_description
+pages:
+- content/inventory/2016-harley-davidson-1.md
+- content/inventory/2016-harley-davidson.md
