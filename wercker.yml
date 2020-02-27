@@ -4,3 +4,13 @@ build:
     - arjen/hugo-build:
         version: "0.65.3"
         theme: ampradix
+        prod_branches: master
+
+deploy:
+  steps:
+    - install-packages:
+        packages: git ssh-client
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: kdzmotorcycles.com
+        basedir: public
