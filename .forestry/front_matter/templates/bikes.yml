@@ -50,3 +50,5 @@ fields:
 - type: text
   name: summary_description
   label: summary_description
+pages:
+- content/inventory/2009-harley-davidson-4532242897vin.md
