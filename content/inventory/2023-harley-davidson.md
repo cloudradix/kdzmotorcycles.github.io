@@ -2,9 +2,9 @@
 Description = "Hello World Description"
 VIN = "42462345234234"
 date = 2020-02-27T05:00:00Z
-featured_image = "/2008-harley-davidson-flht-vin-1HD1FV4148Y675655-thumb.png"
-featured_image_height = "1080"
-featured_image_width = "1920"
+featured_image = "/2009-harley-davidson-flstc-vin-1HD1BW51X9Y028422-thumb.png"
+featured_image_height = "640"
+featured_image_width = "480"
 make = "Harley-Davidson"
 miles = "7200"
 model = "FLWHAT"
