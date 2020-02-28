@@ -2,7 +2,6 @@
 Description = "2014 Street Glide"
 VIN = "1HD1KRM10EB682362"
 date = 2020-02-28T05:00:00Z
-draft = true
 featured_image = "/20200220_154555.jpg"
 featured_image_height = ""
 featured_image_width = ""
