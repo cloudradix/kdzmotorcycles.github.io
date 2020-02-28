@@ -2,9 +2,9 @@
 Description = "Hello World Description"
 VIN = "42462345234234"
 date = 2020-02-27T05:00:00Z
-featured_image = "/kdz-service-header-facebook-960x314.jpg"
-featured_image_height = "1080"
-featured_image_width = "1920"
+featured_image = "/Resized_20200205_115007.jpeg"
+featured_image_height = "756"
+featured_image_width = "1008"
 make = "Harley-Davidson"
 miles = "7200"
 model = "FLWHAT"
