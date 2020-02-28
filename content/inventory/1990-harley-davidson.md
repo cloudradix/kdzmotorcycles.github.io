@@ -2,7 +2,6 @@
 Description = "1990 Harley-Davidson Softail."
 VIN = "1HD1BJL43LY010769"
 date = ""
-draft = true
 featured_image = "/Resized_20200205_115007.jpeg"
 featured_image_height = ""
 featured_image_width = ""
