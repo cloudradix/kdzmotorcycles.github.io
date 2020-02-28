@@ -1,7 +1,7 @@
 +++
 Description = "Demo listing to test website.  Check back soon for a completely updated inventory shortly."
 VIN = "42462345234234"
-date = 2020-02-27T05:00:00Z
+date = 2020-02-28T03:00:00Z
 featured_image = "/Resized_20200205_115007.jpeg"
 featured_image_height = "756"
 featured_image_width = "1008"
