@@ -2,7 +2,7 @@
 Description = "Invented by Ken for testing!"
 VIN = "42462345234234"
 date = 2020-02-27T21:00:00Z
-featured_image = "public/home-header-inventory-3417x1785.jpg"
+featured_image = "/contact-us-header-3417x1335.jpg"
 featured_image_height = "3000"
 featured_image_width = "5000"
 make = "Harley-Davidson"
