@@ -12,7 +12,7 @@ price = "75000"
 structured_image1 = "/2009-harley-davidson-flstc-vin-1HD1BW51X9Y028422-thumb.jpg"
 structured_image2 = "/2014-harley-davidson-fls-vin-1HD1JRV14EB036081-thumb.jpg"
 structured_image3 = "/home-header-inventory-3417x1785.jpg"
-summary_description = "Demo listing ONLY - Not A Real Bike Listing - Test website summary description guy.  PLEASE check back shortly for a completely updated inventory."
+summary_description = "Demo listing ONLY - Not A Real Bike Listing.  Our inventory will be updated February 28, 2019 with new inventory and this demo listing will come down.  "
 title = "2009 Harley-Davidson"
 year = "2009"
 
