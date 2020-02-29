@@ -2,7 +2,6 @@
 Description = "2015 Harley-Davidson"
 VIN = "1HD1KEL15FB602226"
 date = 2020-02-29T05:00:00Z
-draft = true
 featured_image = "/20191213_113016.jpg"
 featured_image_height = ""
 featured_image_width = ""
