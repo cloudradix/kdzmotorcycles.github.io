@@ -2,7 +2,6 @@
 Description = "2016 Street Glide special "
 VIN = "1HD1KRM11GB648000"
 date = 2020-03-04T05:00:00Z
-draft = true
 featured_image = "/20200304_144831.jpg"
 featured_image_height = "3024"
 featured_image_width = "4032"
