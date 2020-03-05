@@ -13,7 +13,7 @@ structured_image1 = "/20200304_144903.jpg"
 structured_image2 = "/20200304_144853.jpg"
 structured_image3 = ""
 summary_description = "2016 FLHXS, Very low miles, High output 103, 6 Spd, GPS touch screen navigation. Warranty available for worry free riding!"
-title = " Harley-Davidson "
+title = "2016 Harley-Davidson "
 year = "2016"
 
 +++
