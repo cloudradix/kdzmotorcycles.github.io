@@ -2,7 +2,6 @@
 Description = "2010 FLHX"
 VIN = "1HD1KB410AB669113"
 date = 2020-03-19T04:00:00Z
-draft = true
 featured_image = "/IMG_20200314_151212_408.jpg"
 featured_image_height = "3024"
 featured_image_width = "4032"
