@@ -13,7 +13,7 @@ structured_image1 = "/20200314_084343.jpg"
 structured_image2 = ""
 structured_image3 = ""
 summary_description = "2010 Harley Davidson FLHX, 19in Chrome front rim, custom paint, pro pipe and many more options! "
-title = "Harley-Davidson "
+title = "2010 Harley-Davidson "
 year = "2010"
 
 +++
