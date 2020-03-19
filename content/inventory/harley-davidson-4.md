@@ -2,7 +2,6 @@
 Description = "2014 FLHTK"
 VIN = "1HD1KEL10EB651445"
 date = 2020-03-19T04:00:00Z
-draft = true
 featured_image = "/20200314_084946.jpg"
 featured_image_height = "3024"
 featured_image_width = "4032"
