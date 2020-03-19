@@ -13,7 +13,7 @@ structured_image1 = "/20200314_084119.jpg"
 structured_image2 = "/20200314_084139.jpg"
 structured_image3 = ""
 summary_description = "2014 Harley Davidson Street Glide! Lots of extras, Low miles, Stage 1, True Dual pipes, Custom backrest, fresh service and Road ready!"
-title = "Harley-Davidson "
+title = "2014 Harley-Davidson "
 year = "2014"
 
 +++

@@ -13,7 +13,7 @@ structured_image1 = "/20200314_084952.jpg"
 structured_image2 = ""
 structured_image3 = ""
 summary_description = "2014 LIMITED!!! Lots and Lots of extras,  Bars, X-Pipes, Stage 2, Body is clean, Fresh Service and Road ready!! Priced perfectly to sell."
-title = "Harley-Davidson "
+title = "2014 Harley-Davidson "
 year = "2014"
 
 +++

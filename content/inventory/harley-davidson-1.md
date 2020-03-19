@@ -13,7 +13,7 @@ structured_image1 = "/20200314_085206.jpg"
 structured_image2 = ""
 structured_image3 = ""
 summary_description = "2015 Harley Davidson FLTRSE2 CVO! Lowered,  heated grips, Seat, Fresh service and Road ready.  This Motorcycle is priced well bellow book and ready for you to take her home"
-title = "Harley-Davidson "
+title = "2015 Harley-Davidson "
 year = "2015"
 
 +++
