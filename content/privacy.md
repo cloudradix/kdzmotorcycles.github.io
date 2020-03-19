@@ -1,7 +1,7 @@
 ---
 date: 2020-03-19T14:53:56-04:00
 title: "Privacy"
-draft: true
+draft: false
 Description: ""
 featured_image: ''
 featured_image_width: ''
@@ -19,3 +19,5 @@ summary_description: ''
 ---
 
 # Privacy Page for KDZ
+
+We will not share your information with anyone unless explicitly stated.
