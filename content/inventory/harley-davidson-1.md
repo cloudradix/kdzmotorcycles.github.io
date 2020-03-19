@@ -2,7 +2,6 @@
 Description = "2015 Harley Davidson FLTRSE2 CVO."
 VIN = "1HD1TAN1XFB957850"
 date = 2020-03-19T04:00:00Z
-draft = true
 featured_image = "/20200314_085214.jpg"
 featured_image_height = "3024"
 featured_image_width = "4032"
