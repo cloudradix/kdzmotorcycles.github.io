@@ -2,7 +2,6 @@
 Description = "2008 Harley-Davidson Ultra Classic "
 VIN = "1HD1FC4168Y680716"
 date = 2020-04-11T04:00:00Z
-draft = true
 featured_image = "/20200411_074317.jpg"
 featured_image_height = "3024"
 featured_image_width = "4032"
