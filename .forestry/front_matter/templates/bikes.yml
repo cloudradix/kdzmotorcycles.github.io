@@ -52,6 +52,7 @@ fields:
   label: summary_description
 pages:
 - content/inventory/1990-harley-davidson.md
+- content/inventory/2008-harley-davidson.md
 - content/inventory/2014-harley-davidson.md
 - content/inventory/2015 FLHTK.md
 - content/inventory/2018 FLTRX.md
