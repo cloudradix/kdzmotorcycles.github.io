@@ -2,7 +2,6 @@
 Description = "2018 Harley-Davidson Ultra "
 VIN = "1HD1KHC11JB661431"
 date = 2020-04-12T04:00:00Z
-draft = true
 featured_image = "/20200402_085517.jpg"
 featured_image_height = "3024"
 featured_image_width = "4032"
