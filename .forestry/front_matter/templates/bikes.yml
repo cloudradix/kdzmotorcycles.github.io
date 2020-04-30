@@ -51,9 +51,6 @@ fields:
   name: summary_description
   label: summary_description
 pages:
-- content/inventory/1990-harley-davidson.md
-- content/inventory/2008-harley-davidson.md
 - content/inventory/2014-harley-davidson.md
 - content/inventory/harley-davidson-1.md
-- content/inventory/harley-davidson-3.md
 - content/inventory/harley-davidson-5.md
