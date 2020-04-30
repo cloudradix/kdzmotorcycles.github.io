@@ -2,7 +2,6 @@
 Description = "2018 Fatboy"
 VIN = "1HD1YFJ15JC041486"
 date = 2020-04-30T04:00:00Z
-draft = true
 featured_image = "/Fatboy 1.jpg"
 featured_image_height = "769"
 featured_image_width = "1080"
