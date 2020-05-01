@@ -13,7 +13,7 @@ structured_image1 = "/20200402_085500.jpg"
 structured_image2 = "/20200402_085507.jpg"
 structured_image3 = "/20200402_085539.jpg"
 summary_description = "2018 Ultra Classic,  16in Apes, Highway Pegs, Fresh Service and Road Ready! Warranty available for worry free riding. "
-title = " Harley-Davidson "
+title = " 2018 Harley-Davidson "
 year = "2018"
 
 +++

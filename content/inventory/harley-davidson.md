@@ -13,7 +13,7 @@ structured_image1 = "/Fatboy 1-1.jpg"
 structured_image2 = "/fatboy 3.jpg"
 structured_image3 = "/fatboy 4.jpg"
 summary_description = "2018 Fatboy! Clean, Looks great, Rides Great, Road ready for summer fun! Warranty avalaible for worry free riding!"
-title = "Harley-Davidson"
+title = "2018 Harley-Davidson"
 year = "2018"
 
 +++
