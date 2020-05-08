@@ -51,7 +51,6 @@ fields:
   name: summary_description
   label: summary_description
 pages:
-- content/inventory/2014-harley-davidson.md
 - content/inventory/harley-davidson-1.md
 - content/inventory/harley-davidson-5.md
 - content/inventory/harley-davidson.md
