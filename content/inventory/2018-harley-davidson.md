@@ -2,7 +2,6 @@
 Description = "2018 Harley-Davidson FLFB"
 VIN = "1HD1YFJ15JC041486"
 date = 2020-05-08T04:00:00Z
-draft = true
 featured_image = "/FLFB1.jpg"
 featured_image_height = "3024"
 featured_image_width = "4032"
