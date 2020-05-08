@@ -51,6 +51,7 @@ fields:
   name: summary_description
   label: summary_description
 pages:
+- content/inventory/2017-indian.md
 - content/inventory/2018-harley-davidson.md
 - content/inventory/2018-indian.md
 - content/inventory/2019-harley-davidson.md
