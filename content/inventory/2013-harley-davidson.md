@@ -2,7 +2,6 @@
 Description = "2013 Harley-Davidson FLHTK"
 VIN = "1HD1KEM13DB679463"
 date = 2020-05-08T04:00:00Z
-draft = true
 featured_image = "/hd1.jpg"
 featured_image_height = "3024"
 featured_image_width = "4032"
