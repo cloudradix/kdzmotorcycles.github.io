@@ -2,7 +2,6 @@
 Description = "2018 Indian Chieftain Limited"
 VIN = ""
 date = 2020-05-08T04:00:00Z
-draft = true
 featured_image = "/2018INDIAN1.jpg"
 featured_image_height = "3024"
 featured_image_width = "4032"
