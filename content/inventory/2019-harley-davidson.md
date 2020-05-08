@@ -2,7 +2,6 @@
 Description = "2019 Harley Davidson FLHTCU"
 VIN = "1HD1FCC13KB655414"
 date = 2020-05-08T04:00:00Z
-draft = true
 featured_image = "/2019FLHTCU2.jpg"
 featured_image_height = "3024"
 featured_image_width = "4032"
